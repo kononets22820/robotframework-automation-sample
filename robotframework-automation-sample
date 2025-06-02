@@ -1,0 +1,21 @@
+robotframework-automation-sample/
+│
+├── README.md
+├── requirements.txt
+├── tests/
+│   ├── login_tests/
+│   │   ├── login_success.robot
+│   │   ├── login_failure.robot
+│   ├── registration_tests/
+│   │   ├── register_new_user.robot
+│   │   ├── register_existing_user.robot
+├── resources/
+│   ├── keywords.robot
+│   ├── variables.robot
+├── page_objects/
+│   ├── login_page.robot
+│   ├── registration_page.robot
+├── results/
+│   └── (empty or gitignore)
+├── .gitignore
+└── Jenkinsfile (optional if you want to show CI/CD integration)
