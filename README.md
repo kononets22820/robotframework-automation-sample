@@ -14,3 +14,8 @@ This repository contains automated tests for a sample web application using Robo
 
 ## How to Run
 1. Install dependencies:
+pip install -r requirements.txt
+2. Run the tests:
+
+## Author
+Volodymyr Kononets
